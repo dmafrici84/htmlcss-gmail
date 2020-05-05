@@ -11,7 +11,7 @@ body{
   margin: 1% 8% 1% 4%;
 }
 /* impostazioni sottoblocchi intestazione (logo - search e risposta) */
-section {
+.section {
   padding-bottom: 5px;
   border-bottom: solid 2px rgba(200,200,200,0.8);
   color: white;
